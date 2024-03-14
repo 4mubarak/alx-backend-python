@@ -2,6 +2,8 @@
 
 This project contains tasks for learning to use variable/type annotations in Python 3.
 
+![0x00. Python - Variable Annotations ](https://i.redd.it/y9y25tefi5401.png)
+
 ## Tasks To Complete
 
 + [x] 0. **Basic annotations - add**<br/>[0-add.py](0-add.py) contains a type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float..
